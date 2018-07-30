@@ -1,4 +1,4 @@
-// RSA algorithm
+// C Code for RSA algorithm
 #include<stdio.h>
 #include<math.h>
 #include<string.h>
